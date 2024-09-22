@@ -1,0 +1,90 @@
+ {
+        "workbench.colorTheme": "Default Dark Modern",
+        "security.workspace.trust.untrustedFiles": "open",
+        "php.validate.executablePath": "",
+        "extensions.confirmedUriHandlerExtensionIds": [
+            "PHP Extension Pack"
+        ],
+        "php.executablePath": "",
+        "php.debug.executablePath": "",
+        "sqltools.connections": [
+            {
+                "mysqlOptions": {
+                    "authProtocol": "default",
+                    "enableSsl": "Disabled"
+                },
+                "previewLimit": 50,
+                "server": "localhost",
+                "port": 3306,
+                "driver": "MySQL",
+                "name": "localhost",
+                "username": "root",
+                "database": "snack_game"
+            },
+            {
+                "mysqlOptions": {
+                    "authProtocol": "default",
+                    "enableSsl": "Disabled"
+                },
+                "previewLimit": 50,
+                "server": "localhost",
+                "port": 3306,
+                "driver": "MySQL",
+                "name": "localhost",
+                "database": "snackgame",
+                "username": "root"
+            },
+            {
+                "mysqlOptions": {
+                    "authProtocol": "default",
+                    "enableSsl": "Disabled"
+                },
+                "previewLimit": 50,
+                "server": "localhost",
+                "port": 3306,
+                "driver": "MySQL",
+                "database": "snack-game",
+                "username": "root1",
+                "name": "localhost1"
+            },
+            {
+                "mysqlOptions": {
+                    "authProtocol": "default",
+                    "enableSsl": "Disabled"
+                },
+                "previewLimit": 50,
+                "server": "localhost",
+                "port": 3306,
+                "driver": "MySQL",
+                "name": "localhost1",
+                "username": "root",
+                "database": "snackgame"
+            },
+            {
+                "mysqlOptions": {
+                    "authProtocol": "default",
+                    "enableSsl": "Disabled"
+                },
+                "previewLimit": 50,
+                "server": "localhost",
+                "port": 3306,
+                "driver": "MySQL",
+                "name": "localhost2",
+                "database": "snackgame",
+                "username": "root"
+            },
+            {
+                "mysqlOptions": {
+                    "authProtocol": "default",
+                    "enableSsl": "Disabled"
+                },
+                "previewLimit": 50,
+                "server": "localhost",
+                "port": 3306,
+                "driver": "MySQL",
+                "name": "Local MySQL",
+                "username": "root",
+                "database": "snake_game"
+            }
+        ]
+    }
